@@ -5,7 +5,7 @@ This project was created to strengthen front-end development skills through game
 ## Live Demo
 
 Play the project here:  
-****
+**https://ian-swartz.github.io/Ian-Swartzs-Mini-Games/**
 
 ---
 
