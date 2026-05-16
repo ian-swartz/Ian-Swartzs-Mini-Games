@@ -106,48 +106,43 @@ This project was built to showcase practical front-end skills, including:
 
 ## Project Structure
 ```
-├── images/                 
-|   ├── home-page/          
-|   │   ├── home-game1.png   
-|   │   ├── home-game2.png  
-│   |   └── home-game3.png  
-│   ├── memory-match/       
-│   |   ├── back.jpg        
-│   |   ├── img1.jpg        
-│   |   ├── img10.jpg       
-│   |   ├── img11.jpg       
-│   |   ├── img12.jpg       
-│   |   ├── img2.jpg        
-│   |   ├── img3.jpg        
-│   |   ├── img4.jpg        
-│   |   ├── img5.jpg        
-│   |   ├── img6.jpg        
-│   |   ├── img7.jpg        
-│   |   ├── img8.jpg        
-│   |   └── img9.jpg        
-|   ├── rpsls/              
-│   |   ├── heart.png        
-│   |   ├── lizard.png      
-│   |   ├── paper.png       
-│   |   ├── rock.png        
-│   |   ├── scissors.png    
-│   |   └── spock.png       
-|   ├── screenshots/        
-│   |   ├── home-page.png   
-│   |   ├── minesweeper.png       
-│   |   ├── memory.png       
-│   |   └── rpsls.png 
-├── index.html              
-├── game1.html              
-├── game1.js                
-├── game2.html              
-├── game2.js                
-├── game3.html              
-├── game3.js                
-├── styles.css              
-├── package.json            
-└── README.md               
-
+├── images
+│   ├── screenshots
+│   │   ├── home-page.png
+│   │   ├── memory-match.png
+│   │   ├── minesweeper.png
+│   │   └── rpsls.png
+│   ├── back.jpg
+│   ├── heart.png
+│   ├── home-game1.png
+│   ├── home-game2.png
+│   ├── home-game3.png
+│   ├── img1.jpg
+│   ├── img10.jpg
+│   ├── img11.jpg
+│   ├── img12.jpg
+│   ├── img2.jpg
+│   ├── img3.jpg
+│   ├── img4.jpg
+│   ├── img5.jpg
+│   ├── img6.jpg
+│   ├── img7.jpg
+│   ├── img8.jpg
+│   ├── img9.jpg
+│   ├── lizard.png
+│   ├── paper.png
+│   ├── rock.png
+│   ├── scissors.png
+│   └── spock.png
+├── game1.html
+├── game1.js
+├── game2.html
+├── game2.js
+├── game3.html
+├── game3.js
+├── index.html
+├── README.md
+└── styles.css
 ```
 
 ---
