@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Ian Swartz's Minigames - Memory Match Game</title>
+    <link rel="stylesheet" href="styles.css" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  </head>
+  <body>
+    <div id="wrapper">
+      <header>
+        <div id="game2-header">
+          <h1>Memory Game</h1>
+        </div>
+      </header>
+
+      <nav>
+        <a href="index.html">Home</a> &nbsp;
+        <a href="game1.html">Game 1</a> &nbsp;
+        <a href="game2.html">Game 2</a> &nbsp;
+        <a href="game3.html">Game 3</a>
+      </nav>
+
+      <div id="game-info">
+        <p>Moves: <span id="moves">0</span></p>
+        <p>Time: <span id="timer">0</span></p>
+        <div id="button">
+          <button id="restart-button" onclick="restartGame()">Restart</button>
+        </div>
+      </div>
+
+      <div class="game-board" id="gameBoard"></div>
+
+      <footer>Copyright &copy 2025 Ian Swartz's Mini Games</footer>
+    </div>
+    <script type="text/javascript" src="game2.js"></script>
+  </body>
+</html>
