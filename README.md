@@ -83,8 +83,6 @@ A browser implementation of the classic logic puzzle video game.
 - **HTML5**
 - **CSS3**
 - **Vanilla JavaScript**
-- **localStorage**
-- **Responsive Design**
 
 ---
 
