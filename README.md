@@ -153,9 +153,9 @@ GitHub: https://github.com/ian-swartz
 ---
 Project Created for Millersville CMSC 421 - Web Application Development
 
-Original CodeSandbox Share Link: ** https://codesandbox.io/p/sandbox/project-2-front-end-basics-ian-swartz-f63kxm **
+Original CodeSandbox Share Link: **https://codesandbox.io/p/sandbox/project-2-front-end-basics-ian-swartz-f63kxm**
 
-CodeSanbox Website Link: ** https://f63kxm.csb.app/ **
+CodeSanbox Website Link: **https://f63kxm.csb.app/**
 
 (CodeSandbox doesn't always load all the images, which I believe may be a server issue).
 
