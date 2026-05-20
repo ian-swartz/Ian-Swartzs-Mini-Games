@@ -149,3 +149,6 @@ This project was built to showcase practical front-end skills, including:
 
 Developed by: Ian Swartz 
 GitHub: https://github.com/ian-swartz
+
+---
+Project Created for Millersville CMSC 421 - Web Application Development
