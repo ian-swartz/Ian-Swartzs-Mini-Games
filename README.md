@@ -139,6 +139,7 @@ This project was built to showcase practical front-end skills, including:
 ├── game3.html
 ├── game3.js
 ├── index.html
+├── LICENSE
 ├── README.md
 └── styles.css
 ```
