@@ -1,4 +1,4 @@
-# Ian-Swartz-s-Mini-Games
+# Ian Swartz's Mini Games
 A browser-based collection of interactive games built with **HTML, CSS, and JavaScript**.  
 This project was created to strengthen front-end development skills through game logic, DOM manipulation, UI design, and browser-side state management.
 
