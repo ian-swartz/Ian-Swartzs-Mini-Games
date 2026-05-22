@@ -148,6 +148,7 @@ This project was built to showcase practical front-end skills, including:
 ## Author
 
 Developed by: Ian Swartz 
+
 GitHub: https://github.com/ian-swartz
 
 ---
